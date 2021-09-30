@@ -2,3 +2,5 @@
 *.orig
 *~
 \#*#
+_site/
+Gemfile.lock
