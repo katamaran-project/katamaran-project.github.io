@@ -4,6 +4,7 @@ title: Katamaran
 ---
 
 ## Research goals
+
 An instruction set architecture (ISA) is an abstract specification of the syntax
 and semantics of machine code. It defines an envelope of allowed behaviour for
 CPU designers and a set of assumptions that software designers can rely on.
@@ -17,12 +18,25 @@ can be used to reason about programs, as a way to ultimately verify security
 properties of full systems, i.e. hardware combined with software.
 
 ## Verification
+
 Scaling up ISA property proofs raises important proof engineering challenges.
 For the verification effort to scale reasonably in terms of the size and
 complexity of the specification and for making it robust to changes, proof
 automation is a necessity. To this end, we are developing
 [Katamaran](https://github.com/katamaran-project/katamaran), a semi-automated
 separation logic verifier for the Sail specification language.
+
+## Articles
+
+- **Semi-automatic verification of ISA security guarantees in the form of universal contracts**<br>
+  *Sander Huyghebaert, Steven Keuchel and Dominique Devriese*<br>
+  <span style="color:silver">Short paper presented at the workshop on the Security of Software / Hardware Interfaces, SILM'21</span><br>
+  [[pdf]](articles/2021-09-silm-universalcontracts.pdf) [[slides]](articles/2021-09-silm-universalcontracts-slides.pdf)
+
+- **Katamaran: semi-automated verification of ISA specifications**<br>
+  *Steven Keuchel, Georgy Lukyanov and Dominique Devriese*<br>
+  <span style="color:silver">Extended abstract REMS-DeepSpec 2020 workshop.</span><br>
+  [[pdf]](articles/papers/2020-06-remsdeepspec-katamaran.pdf) [[slides]](articles/papers/2020-06-remsdeepspec-katamaran-slides.pdf)
 
 ## Case studies
 - [Minimal Capability Machine](https://github.com/katamaran-project/katamaran/tree/main/case_study/MinimalCaps)
