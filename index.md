@@ -50,3 +50,9 @@ separation logic verifier for the Sail specification language.
 
 ### Past
 - [Georgy Lukyanov](https://github.com/geo2a)
+
+
+## Partners and Funding
+- [CyberSecurity in Flanders](https://cybersecurity-research.be/)
+- [Software Languages Lab](http://soft.vub.ac.be/soft/)
+- [imec - DistriNet](https://distrinet.cs.kuleuven.be/)
