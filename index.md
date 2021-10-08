@@ -39,7 +39,7 @@ separation logic verifier for the Sail specification language.
   [[pdf]](articles/papers/2020-06-remsdeepspec-katamaran.pdf) [[slides]](articles/papers/2020-06-remsdeepspec-katamaran-slides.pdf)
 
 ## Case studies
-- [Minimal Capability Machine](https://github.com/katamaran-project/katamaran/tree/main/case_study/MinimalCaps)
+- [Minimal Capability Machine](https://github.com/katamaran-project/minimalcaps)
 - [Physical Memory Protection](https://github.com/katamaran-project/katamaran/tree/main/case_study/RiscvPmp)
 
 ## People
