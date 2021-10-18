@@ -43,7 +43,7 @@ separation logic verifier for the Sail specification language.
 - [Katamaran v0.1](https://github.com/katamaran-project/katamaran/releases/tag/v0.1.0)
 
 ## Case studies
-- [Minimal Capability Machine](https://github.com/katamaran-project/katamaran/tree/main/case_study/MinimalCaps)
+- [Minimal Capability Machine](https://github.com/katamaran-project/minimalcaps)
 - [Physical Memory Protection](https://github.com/katamaran-project/katamaran/tree/main/case_study/RiscvPmp)
 
 ## People
