@@ -38,6 +38,10 @@ separation logic verifier for the Sail specification language.
   <span style="color:silver">Extended abstract REMS-DeepSpec 2020 workshop.</span><br>
   [[pdf]](articles/papers/2020-06-remsdeepspec-katamaran.pdf) [[slides]](articles/papers/2020-06-remsdeepspec-katamaran-slides.pdf)
 
+## Software Releases
+
+- [Katamaran v0.1](https://github.com/katamaran-project/katamaran/releases/tag/v0.1.0)
+
 ## Case studies
 - [Minimal Capability Machine](https://github.com/katamaran-project/katamaran/tree/main/case_study/MinimalCaps)
 - [Physical Memory Protection](https://github.com/katamaran-project/katamaran/tree/main/case_study/RiscvPmp)
