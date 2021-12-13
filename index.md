@@ -38,6 +38,11 @@ separation logic verifier for the Sail specification language.
   <span style="color:silver">Extended abstract REMS-DeepSpec 2020 workshop.</span><br>
   [[pdf]](articles/2020-06-remsdeepspec-katamaran.pdf) [[slides]](articles/2020-06-remsdeepspec-katamaran-slides.pdf)
 
+- **Verified Symbolic Execution with Kripke Specification Monads (and no Meta-Programming)**<br>
+  *Steven Keuchel, Sander Huyghebaert, Georgy Lukyanov and Dominique Devriese*<br>
+  <span style="color:silver">Manuscript, under submission</span><br>
+  [[pdf]](articles/2021-12-symbolic-execution-vcgen.pdf)
+
 ## Software Releases
 
 - [Katamaran v0.1](https://github.com/katamaran-project/katamaran/releases/tag/v0.1.0)
