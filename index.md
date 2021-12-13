@@ -36,7 +36,7 @@ separation logic verifier for the Sail specification language.
 - **Katamaran: semi-automated verification of ISA specifications**<br>
   *Steven Keuchel, Georgy Lukyanov and Dominique Devriese*<br>
   <span style="color:silver">Extended abstract REMS-DeepSpec 2020 workshop.</span><br>
-  [[pdf]](articles/papers/2020-06-remsdeepspec-katamaran.pdf) [[slides]](articles/papers/2020-06-remsdeepspec-katamaran-slides.pdf)
+  [[pdf]](articles/2020-06-remsdeepspec-katamaran.pdf) [[slides]](articles/2020-06-remsdeepspec-katamaran-slides.pdf)
 
 ## Software Releases
 
