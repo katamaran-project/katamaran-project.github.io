@@ -41,7 +41,7 @@ separation logic verifier for the Sail specification language.
 - **Verified Symbolic Execution with Kripke Specification Monads (and no Meta-Programming)**<br>
   *Steven Keuchel, Sander Huyghebaert, Georgy Lukyanov and Dominique Devriese*<br>
   <span style="color:silver">Manuscript, under submission</span><br>
-  [[pdf]](articles/2021-12-symbolic-execution-vcgen.pdf)
+  [[pdf]](articles/2022-06-symbolic-execution-vcgen.pdf)
 
 ## Software Releases
 
