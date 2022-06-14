@@ -5,6 +5,14 @@ title: Verified Symbolic Execution with Kripke Specification Monads (and no Meta
 
 [Original submission](./icfp2022-paper17.pdf)
 
+# 2022-06-14 10:48 [[pdf]](./202206141048.pdf) [[diff]](./202206141048.diff.pdf)
+- Split Section 2.3 into two parts. The new Section 2.3 now only discusses the execution of a function call and Section 2.4 discusses the generation of a verification condition for the body of a function.
+- Move the summaxlen example from Section 2.0 to Section 2.3 where its contract is discussed.
+- Add and explain the push and pop combinators for dealing with the store.
+- Clarify that a constraint solving is not in scope of the paper and a solver is assumed to be given.
+- In Section 6, clarify that Katamaran implements the techniques as discussed in the preceeding sections, including the logical relation, and that everything is mechanized.
+- Fix (most) detailed comments from the reviewers.
+
 # 2022-06-11 11:12 [[pdf]](./202206111112.pdf) [[diff]](./202206111112.diff.pdf)
 - Polished the discussion of a hypothetical direct proof between the symbolic
   executor and the program logic at the end of Section 5.
