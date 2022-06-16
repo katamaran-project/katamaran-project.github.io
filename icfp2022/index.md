@@ -5,6 +5,10 @@ title: Verified Symbolic Execution with Kripke Specification Monads (and no Meta
 
 [Original submission](./icfp2022-paper17.pdf)
 
+# 2022-06-16 [[pdf]](./202206151246.pdf) [[diff]](./202206151246.diff.pdf)
+- Rework notations. Do not use meta-variables to refer to values and types.
+- Fix the coloring of object, shallow and symbolic code.
+
 # 2022-06-15 [[pdf]](./202206151546.pdf) [[diff]](./202206151546.diff.pdf)
 - Short discussion about partial and total correctness models in Section 6.
 - Short discussion on (relative) completeness in Section 5.
