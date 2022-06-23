@@ -5,7 +5,7 @@ title: Verified Symbolic Execution with Kripke Specification Monads (and no Meta
 
 [Original submission](./icfp2022-paper17.pdf)
 
-# 2022-06-16 [[pdf]](./202206151246.pdf) [[diff]](./202206151246.diff.pdf)
+# 2022-06-16 [[pdf]](./202206161246.pdf) [[diff]](./202206161246.diff.pdf)
 - Rework notations. Do not use meta-variables to refer to values and types.
 - Fix the coloring of object, shallow and symbolic code.
 
