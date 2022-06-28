@@ -28,6 +28,16 @@ separation logic verifier for the Sail specification language.
 
 ## Articles
 
+- **Universal Contracts Approach for Semi-Automatic Verification of ISA Security Guarantees**<br>
+  *Sander Huyghebaert, Steven Keuchel, Coen De Roover and Dominique Devriese*<br>
+  <span style="color:silver">Manuscript, under submission</span><br>
+  [[pdf]](articles/2022-05-universal-contracts.pdf)
+
+- **Verified Symbolic Execution with Kripke Specification Monads (and no Meta-Programming)**<br>
+  *Steven Keuchel, Sander Huyghebaert, Georgy Lukyanov and Dominique Devriese*<br>
+  <span style="color:silver">Manuscript, under submission</span><br>
+  [[pdf]](articles/2022-06-symbolic-execution-vcgen.pdf)
+
 - **Semi-automatic verification of ISA security guarantees in the form of universal contracts**<br>
   *Sander Huyghebaert, Steven Keuchel and Dominique Devriese*<br>
   <span style="color:silver">Short paper presented at the workshop on the Security of Software / Hardware Interfaces, SILM'21</span><br>
@@ -37,11 +47,6 @@ separation logic verifier for the Sail specification language.
   *Steven Keuchel, Georgy Lukyanov and Dominique Devriese*<br>
   <span style="color:silver">Extended abstract REMS-DeepSpec 2020 workshop.</span><br>
   [[pdf]](articles/2020-06-remsdeepspec-katamaran.pdf) [[slides]](articles/2020-06-remsdeepspec-katamaran-slides.pdf)
-
-- **Verified Symbolic Execution with Kripke Specification Monads (and no Meta-Programming)**<br>
-  *Steven Keuchel, Sander Huyghebaert, Georgy Lukyanov and Dominique Devriese*<br>
-  <span style="color:silver">Manuscript, under submission</span><br>
-  [[pdf]](articles/2022-06-symbolic-execution-vcgen.pdf)
 
 ## Software Releases
 
