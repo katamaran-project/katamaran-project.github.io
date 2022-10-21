@@ -28,15 +28,15 @@ separation logic verifier for the Sail specification language.
 
 ## Articles
 
-- **Universal Contracts Approach for Semi-Automatic Verification of ISA Security Guarantees**<br>
+- **Formalizing, Verifying and Applying ISA Security Guarantees as Universal Contracts**<br>
   *Sander Huyghebaert, Steven Keuchel, Coen De Roover and Dominique Devriese*<br>
   <span style="color:silver">Manuscript, under submission</span><br>
-  [[pdf]](articles/2022-05-universal-contracts.pdf)
+  [[pdf]](articles/2022-10-universal-contracts.pdf)
 
 - **Verified Symbolic Execution with Kripke Specification Monads (and no Meta-Programming)**<br>
   *Steven Keuchel, Sander Huyghebaert, Georgy Lukyanov and Dominique Devriese*<br>
-  <span style="color:silver">Manuscript, under submission</span><br>
-  [[pdf]](articles/2022-06-symbolic-execution-vcgen.pdf)
+  <span style="color:silver">In ICFP 2022: ACM SIGPLAN International Conference on Functional Programming</span><br>
+  [[pdf]](articles/2022-08-symbolic-execution-vcgen.pdf)
 
 - **Semi-automatic verification of ISA security guarantees in the form of universal contracts**<br>
   *Sander Huyghebaert, Steven Keuchel and Dominique Devriese*<br>
@@ -50,6 +50,7 @@ separation logic verifier for the Sail specification language.
 
 ## Software Releases
 
+- [Katamaran v0.2](https://github.com/katamaran-project/katamaran/releases/tag/v0.2.0)
 - [Katamaran v0.1](https://github.com/katamaran-project/katamaran/releases/tag/v0.1.0)
 
 ## Case studies
