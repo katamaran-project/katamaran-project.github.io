@@ -37,6 +37,8 @@ separation logic verifier for the Sail specification language.
   *Steven Keuchel, Sander Huyghebaert, Georgy Lukyanov and Dominique Devriese*<br>
   <span style="color:silver">In ICFP 2022: ACM SIGPLAN International Conference on Functional Programming</span><br>
   [[pdf]](articles/2022-08-symbolic-execution-vcgen.pdf)
+  [[doi]](https://doi.org/10.1145/3547628)
+  [[artifact]](https://doi.org/10.5281/zenodo.6865817)
 
 - **Semi-automatic verification of ISA security guarantees in the form of universal contracts**<br>
   *Sander Huyghebaert, Steven Keuchel and Dominique Devriese*<br>
